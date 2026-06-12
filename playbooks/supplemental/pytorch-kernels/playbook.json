@@ -26,6 +26,14 @@
       "linux",
       "windows"
     ],
+    "stx": [
+      "linux",
+      "windows"
+    ],
+    "krk": [
+      "linux",
+      "windows"
+    ],
     "halo_box": [
       "linux",
       "windows"
@@ -47,7 +55,16 @@
   },
   "published_platforms": {
     "halo": [
-      "linux"
+      "linux",
+      "windows"
+    ],
+    "stx": [
+      "linux",
+      "windows"
+    ],
+    "krk": [
+      "linux",
+      "windows"
     ]
   },
   "difficulty": "advanced",
